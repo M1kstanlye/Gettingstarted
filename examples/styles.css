@@ -1,0 +1,41 @@
+body{
+    background: #E3B505
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+h2{
+    color: white;
+
+}
+
+h4{
+    Color: grey
+}
+
+p{
+    text-align: center;
+    color: purple;
+    text-decoration: underline;
+}
+
+ul{
+    color: brown;
+    text-decoration: line-through;
+}
+
+ol{
+    color: hotpink;
+    text-align: right;
+}
+
+table{
+    color: blueviolet
+}
+
+form{
+    color: forestgreen
+}
