@@ -1,0 +1,9 @@
+body{
+    border: solid;
+    background:blanchedalmond;
+}
+p{
+    border-radius:4px
+    boarder-style:dotted
+    boarder-color:red
+}
