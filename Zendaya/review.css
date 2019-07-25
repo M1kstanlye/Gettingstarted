@@ -1,9 +1,48 @@
 body{
-    border: solid;
-    background:blanchedalmond;
+    border: solid goldenrod;
+    margin:10px;
+    padding:25px;
+    background-image:url("https://media.timeout.com/images/105451487/630/472/image.jpg");
 }
-p{
-    border-radius:4px
-    boarder-style:dotted
-    boarder-color:red
+h1{
+    position:relative;
+    top:100px;
+    right:100px;
+    margin-left:20px;
+    align:center;
+}
+h2{
+margin:25px;
+}
+h3{
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left:25px;
+    margin-right:25px;
+}
+.paragraph1{
+    border: dotted 4px red;
+    padding:30px;
+}
+.paragraph2{
+        border: 10px solid green;
+        position:relative;
+        left:50px;
+        top:100px
+}
+#Whodoyouadmire{
+    height:100px;
+}
+#whyadmireher{
+    position:relative;
+    left:20;
+    rigth:50px;
+    width:50%;
+}
+.what{
+    position:Static;
+
+    width:200x;
+    padding:25px;
+    border:25px solid purple;
 }
