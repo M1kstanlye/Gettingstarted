@@ -35,14 +35,13 @@ h3{
 }
 #whyadmireher{
     position:relative;
-    left:20;
-    rigth:50px;
+    left:20px;
+    right:50px;
     width:50%;
 }
 .what{
     position:Static;
-
-    width:200x;
+    width:200px;
     padding:25px;
     border:25px solid purple;
 }
