@@ -40,12 +40,14 @@ form{
     color: forestgreen;
 }
 
-#BlockOne{
+.BlockOne{
     background-color: teal;
+    font-family: 'Just Another Hand', cursive;
 }
 
 .Blocks{
     background-color: tomato;
+    font-family: 'Roboto', sans-serif;
 }
 
 .Blocker{
